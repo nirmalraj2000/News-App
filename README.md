@@ -8,13 +8,13 @@
 
 <table><tr>
 <td>
-<img src='https://github.com/nirmalraj2000/News-App/blob/master/Images/1.gif' align='left' width='180' height='330' padding='30'>
+<img src='https://github.com/nirmalraj2000/News-App/blob/master/Images/1.gif' align='left' width='240' height='390' padding='30'>
 </td>
 <td>
-<img src='https://github.com/nirmalraj2000/News-App/blob/master/Images/2.gif' align='left' width='180' height='330'>
+<img src='https://github.com/nirmalraj2000/News-App/blob/master/Images/2.gif' align='left' width='240' height='390'>
 </td>
 <td>
-<img src='https://github.com/nirmalraj2000/News-App/blob/master/Images/3.gif' align='left' width='180' height='330'>
+<img src='https://github.com/nirmalraj2000/News-App/blob/master/Images/3.gif' align='left' width='240' height='390'>
 </td>
 </table>
 
